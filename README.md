@@ -7,6 +7,6 @@ My Website: **ubodigat.com**
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ubodigat&show_icons=true&theme=radical" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubodigat&layout=compact&theme=radical" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ubodigat&show_icons=true&theme=radical" width="380"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubodigat&layout=compact&theme=radical" width="380"/>
 </p>
